@@ -4,7 +4,7 @@
 day=$(date +%d)
 
 # Create a commit message with the current day
-commit_message="🎄 completed day $day"
+commit_message="🎄 Completed day $day"
 
 # Add all changes and commit with the generated message
 git add .
